@@ -16,3 +16,5 @@ github_branch_to_test = 16
 git_local_repo = 'a'
 #################################
 git_change_in_branch = "B"
+######################################
+variabel_test_github = "github"
