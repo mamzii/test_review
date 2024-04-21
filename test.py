@@ -12,4 +12,5 @@ github_variabel_for_testinh = 12
 local_git_change_to_push = 15
 ########################################
 github_branch_to_test = 16
-
+######################################
+git_local_repo = 'a'
