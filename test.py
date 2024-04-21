@@ -18,3 +18,6 @@ git_local_repo = 'a'
 git_change_in_branch = "B"
 ######################################
 variabel_test_github = "github"
+
+######################################
+variabel_test_git = "local git"
