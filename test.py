@@ -21,3 +21,7 @@ variabel_test_github = "github"
 
 ######################################
 variabel_test_git = "local git"
+######################################
+variabel_test_git = "in branch"
+######################################
+variabel_test_git = "chnge branch in local git"
